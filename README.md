@@ -1,6 +1,6 @@
-# ECE 5510: Multiprocessor Programming Project: 
-# Concurrent Neural Signal Processor for EEG Spindle Detection
-## Submitted by Apurv Sanjay Deshpande (apurvsd@vt.edu) and Hari Makarand Sumant (harisumant@vt.edu) 
+# Virginia Tech- ECE 5510: Multiprocessor Programming Project: 
+#@ Concurrent Neural Signal Processor for EEG Spindle Detection
+### Submitted by Apurv Sanjay Deshpande (apurvsd@vt.edu) and Hari Makarand Sumant (harisumant@vt.edu) 
 
 ## Overview
 This project focuses on detecting EEG sleep spindles using neural networks and improving the training and evaluation times through parallel processing techniques. The approach includes preprocessing EEG and EOG datasets, training a Time-Series Autoencoder, and evaluating performance using both sequential and parallel implementations.
